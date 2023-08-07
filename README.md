@@ -1,6 +1,6 @@
 # Quadrupedal Velocity Tracking
 
-This is the official repo for Learning Accurate Velocity Tracking for
+This is the official repo for Learning Agile and Accurate Velocity Tracking for
 Quadrupedal Robots. This contains a prebuilt version of our environment
 and a pretrained model for playing.
 
